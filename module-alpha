@@ -1,0 +1,16 @@
+module AlphaTexter
+	def self.a?(letter)
+		letter.downcase == "a"
+	end
+
+	def self.b?(letter)
+		letter.downcase == "b"
+	end
+
+end
+
+def five_times
+	num.times {yield}
+end
+
+five_times {"hiya"}

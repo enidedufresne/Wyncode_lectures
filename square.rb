@@ -1,0 +1,2 @@
+module Rhombus
+end
