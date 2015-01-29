@@ -1,1 +1,0 @@
-print RUBY_VERSION
