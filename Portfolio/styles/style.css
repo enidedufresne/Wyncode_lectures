@@ -1,0 +1,70 @@
+body {
+  font-family: 'Abel', sans-serif;
+  background: url("http://i217.photobucket.com/albums/cc23/gameking21/TECH.png") no-repeat center center fixed;
+  margin-left: 40px;
+  margin-right: 20px;
+}
+
+
+ h1 {
+   font-family: font-family: 'Abel', sans-serif;
+ }
+
+
+#title {
+  color: purple;
+  font-weight: bold;
+  font-size: 85px;
+}
+
+
+nav {
+	font-weight: bolder;
+	text-align: right;
+	color: purple;
+}
+
+
+a {
+	font-weight: bolder;
+	text-decoration: none;
+	color: hotpink;
+	font-size: 18px;
+}
+
+
+div#mainone {
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 150%;
+	margin-right: 250px;
+	text-align: left;
+}
+
+div#second {
+	font-size: 18px;
+	margin-right: 150px;
+	line-height: 130%;
+}
+
+#social {
+	text-align: right;
+}
+
+.nav li {
+	display: inline;
+	padding-right: 20px;
+}
+
+.nav li:last-child {
+	padding-right: 0;
+}
+
+
+
+
+
+
+
+
+
